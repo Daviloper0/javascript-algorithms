@@ -1,3 +1,5 @@
+//In this challenge the function recieves an multidimensional array and has to return (in other array) the largest number from each of the 'child' arrays.
+
 function largestOfFour(arr) {
   let largestNumberArray = [];
   for (let i = 0; i < arr.length; i++) {

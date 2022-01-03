@@ -1,3 +1,5 @@
+//The chalenge is about creating a function that recieves a string with some words and returs the length of the longest word from the sentence.
+
 function findLongestWordLength(str) {
     let stringArray = str.split(" ")
     let longestStringLength = 0;
